@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alias</string>
+    <string name="classic_mode">Classic</string>
+    <string name="arcade_mode">Arcade</string>
+</resources>
